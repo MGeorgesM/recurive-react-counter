@@ -1,0 +1,16 @@
+span {
+    font-size: 21px;
+}
+
+div:not(:first-child) {
+    margin-left: 15px;
+}
+
+div button {
+    margin: 3px;
+    padding: 1px 6px;
+}
+
+.hidden {
+    display: none;
+}
